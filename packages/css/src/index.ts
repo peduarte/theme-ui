@@ -121,6 +121,7 @@ export const scales = {
   maxHeight: 'sizes',
   flexBasis: 'sizes',
   size: 'sizes',
+  opacity: 'opacities',  
   // svg
   fill: 'colors',
   stroke: 'colors',
